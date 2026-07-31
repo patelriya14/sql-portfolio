@@ -19,4 +19,4 @@ This project demonstrates SQL data cleaning techniques using MySQL.
 - GitHub
 
 ## Files
-- portfolio sql data cleaning.sql
+- sql data cleaning.sql
