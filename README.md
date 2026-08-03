@@ -1,22 +1,73 @@
 # SQL Data Cleaning Project
 
 ## Project Overview
-This project demonstrates SQL data cleaning techniques using MySQL.
+This project focuses on cleaning and preparing a real-world layoffs dataset using MySQL. The goal is to improve data quality by removing inconsistencies, handling duplicates, standardizing values, and preparing the dataset for exploratory data analysis.
 
-## Skills Used
-- Data Cleaning
-- CTE
-- Window Functions
-- ROW_NUMBER()
-- TRIM()
+---
+
+## Dataset
+- *Dataset:* Global Layoffs Dataset
+- *Database:* MySQL
+
+---
+
+## Objectives
+- Remove duplicate records
+- Standardize text values
+- Handle NULL and blank values
+- Format date columns
+- Remove unnecessary columns
+- Prepare a clean dataset for analysis
+
+---
+
+## SQL Skills Demonstrated
+- SELECT
+- CREATE TABLE
 - UPDATE
 - DELETE
 - ALTER TABLE
+- TRIM()
+- ROW_NUMBER()
+- Common Table Expressions (CTEs)
+- Window Functions
 - Date Formatting
 
-## Tools
+---
+
+## Data Cleaning Process
+✔️ Removed duplicate records using ROW_NUMBER()
+
+✔️ Standardized company names and text values using TRIM()
+
+✔️ Converted date columns into a consistent format
+
+✔️ Replaced blank values with NULL
+
+✔️ Filled missing values where possible
+
+✔️ Removed unnecessary columns
+
+✔️ Created a final cleaned dataset for analysis
+
+---
+
+## Tools Used
 - MySQL Workbench
 - GitHub
 
+---
+
 ## Files
-- sql data cleaning.sql
+- sql data cleaning.sql – SQL script containing all data cleaning queries
+- README.md – Project documentation
+
+---
+
+## Learning Outcomes
+Through this project, I gained hands-on experience with:
+- SQL data cleaning techniques
+- Window Functions
+- Common Table Expressions (CTEs)
+- Data standardization
+- Preparing datasets for analysis
