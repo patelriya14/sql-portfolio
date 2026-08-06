@@ -1,4 +1,4 @@
-SQL Data Cleaning Project
+## SQL Data Cleaning Project
 
 Project Overview
 This project focuses on cleaning and preparing a real-world layoffs dataset using MySQL. The goal is to improve data quality by removing inconsistencies, handling duplicates, standardizing values, and preparing the dataset for exploratory data analysis.
@@ -59,5 +59,4 @@ Through this project, I gained hands-on experience with:
 - Preparing datasets for analysis
 
 ## Author
-
 Riya Patel
