@@ -58,5 +58,6 @@ Through this project, I gained hands-on experience with:
 - Data standardization
 - Preparing datasets for analysis
 
-#Author
+## Author
+
 Riya Patel
